@@ -2,7 +2,7 @@
 - 👀 I’m interested in python based technologies
 - 🌱 I’m currently learning Blockchanin Technologie & Data Science 
 - 
-- 💞️ I’m looking to collaborate on djnago based projects 
+- 💞️ I’m open to collaborate on djnago based projects 
 
 
  
