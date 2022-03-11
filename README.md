@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Blockchanin Technologie & Data Science 
 - 
 - 💞️ I’m open to collaborate on djnago based projects 
+- I am also available to help and assist anyone with there web projects 
 
 
  
