@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @NomadCoder101
-- 👀 I’m interested in python based technologies
-- 🌱 I’m currently learning Blockchanin Technologie & Data Science 
+- 👀 I’m interested in python based technologies and cyber security
+- 🌱 I’m currently learning Cyber Security and Malware Analysis
 - 
-- 💞️ I’m open to collaborate on djnago based projects 
-- I am also available to help and assist anyone with there web projects 
+- 💞️ I’m open to collaborate on djnago based projects ,Malware analysis and cyber security related projects 
+- 
 
 
  
