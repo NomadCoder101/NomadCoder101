@@ -2,7 +2,7 @@
 - 👀 I’m interested in python based technologies and cyber security
 - 🌱 I’m currently learning Cyber Security and Malware Analysis
 - 
-- 💞️ I’m open to collaborate on djnago based projects ,Malware analysis and cyber security related projects 
+- 💞️ I’m open to collaborate on ,Malware analysis and cyber security related projects 
 - 
 
 
