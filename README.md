@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @NomadCoder101
 - 👀 I’m interested in python based technologies and cyber security
-- 🌱 I’m currently learning Cyber Security and Malware Analysis
-- 
+- 🌱 I’m currently learning Cyber Security 
 - 💞️ I’m open to collaborate on ,Python and cyber security related projects 
 - 
 
