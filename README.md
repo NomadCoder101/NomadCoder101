@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NomadCoder101
 - 👀 I’m interested in python based technologies and cyber security
 - 🌱 I’m currently learning Django , Cyber Security , Data Science
-- 💞️ I’m open to collaborate on ,Python ,Web, Data Science and cyber security related projects 
+- 💞️ I’m open to collaborate on ,Python ,Web, Data Science and Cyber Security related projects 
 - 
 
 
