@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NomadCoder101
 - 👀 I’m interested in python based technologies and cyber security
-- 🌱 Expirience in Django ,Bootstrap,Wordpress, Tailwind,javascript,react, Cyber Security , Data Science
-- 💞️ I’m open to collaborate on ,Python ,Web, and Data Science  related projects 
+- 🌱 Expirience in Django ,Bootstrap,Wordpress, Tailwind,javascript,react, \
+- 💞️ I’m open to collaborate on ,Python ,Webdevelopment related projects 
 - 
 
 
