@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NomadCoder101
 - 👀 I’m interested in python and ai based technologies .
-- 🌱 Expirience in Generative Ai applications, Python ,Django ,html, css3, Bootstrap,Wordpress, Tailwind,javascript,react, \
+- 🌱 Expirience in Generative Ai applications, Python ,Django ,SAAS Application,html, css3, Bootstrap,Wordpress, Tailwind,javascript,react, \
 - 💞️ I’m open to collaborate on ,Python ,Webdevelopment related projects 
 - 
 
