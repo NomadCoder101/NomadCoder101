@@ -6,7 +6,8 @@
 
 
  
-- 📫 How to reach me  : nirgal101@protonmail.com
+- 📫 How to reach me  :cbinary07@gmail.com
+- 
 
 
 <!---
