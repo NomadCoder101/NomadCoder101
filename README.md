@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NomadCoder
 - 👀 I’m interested in python ,Data Science, Machine Learning and AI based technologies .
 - 🌱  Python ,Django,Generative Ai applications,Data Science, Machine Learning ,  ,SAAS Application,html, css3, Bootstrap,Wordpress, Tailwind,javascript \
-- 💞️ I’m open to collaborate on ,Python ,Webdevelopment related projects 
+- 💞️ I’m open to collaborate on ,Python ,Webdevelopment and Google ad manager related projects 
 - 
 
 
