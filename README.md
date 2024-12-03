@@ -3,7 +3,9 @@
 - 🌱  Python custom scripts ,Django web development,Generative Ai applications,Data Science, Machine Learning ,  ,SAAS Application,html, css3, Bootstrap,Wordpress, Tailwind,javascript \
 - 💞️ I’m open to collaborate on ,Python custom scripts ,Webdevelopment and Google ad manager related projects
 
-- checkout out django based ecommerce prototype(version 1 front end design under development)
+ Simple and effective ecommerce solution for Startups,Entreprenuers,Non Coders .
+Contact for full demo . 
+- Django based ecommerce prototype(version 1.1 Frontend design as per clients requirment.)
 - with stripe and mailchimp integration.
 - https://prototype.pythonanywhere.com/
 - 
