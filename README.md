@@ -4,7 +4,7 @@
 - 💞️ I’m open to collaborate on ,Python custom scripts ,Webdevelopment and Google ad manager related projects
 
  I porvide a user friendly and effective ecommerce solution for Startups,Entreprenuers,Non Coders .
- Launch your Ecommorce Store Today:
+Launch your Ecommorce Store Today:
 Contact for full demo . 
 Try it before you buy it.
 - Django based ecommerce prototype(version 1.1 Frontend design as per clients requirment.)
