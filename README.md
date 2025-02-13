@@ -10,7 +10,8 @@ Try it before you buy it.
 - Django based ecommerce prototype(version 1.1 Frontend design will be as per clients requirment.)
 - with stripe and mailchimp integration.
 - https://prototype.pythonanywhere.com/
-- 
+
+- https://nomadcoder.pythonanywhere.com/
 
 
  
