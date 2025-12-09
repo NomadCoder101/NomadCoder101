@@ -7,7 +7,7 @@
 - Launch your Ecommorce Store Today.
 Contact for full demo . 
 Try it first.
-- Django based ecommerce prototype(version 1.1 Frontend design will be as per clients requirment.)
+- Django based ecommerce prototype.
 - with stripe and mailchimp integration.
 - https://prototype.pythonanywhere.com/
 
