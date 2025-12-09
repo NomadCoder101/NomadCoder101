@@ -3,8 +3,8 @@
 - 🌱  Python custom scripts ,Django web development,Generative Ai applications,Data Science, Machine Learning\
 - 💞️ I’m open to collaborate on Web Scraping,Python custom scripts ,Web Development,DataScience,Generative AI ,ML related projects
 
- I porvide a user friendly and effective ecommerce solution for Startups,Entreprenuers,Non Coders .
-- Launch your Ecommorce Store Today.
+User friendly and effective ecommerce solution for Startups,Entreprenuers,Non Coders .
+
 Contact for full demo . 
 Try it first.
 - Django based ecommerce prototype.
