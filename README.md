@@ -3,7 +3,7 @@
 - 🌱  Python custom scripts ,Django web development,Generative Ai applications,Data Science, Machine Learning\
 - 💞️ I’m open to collaborate on Web Scraping,Python custom scripts ,Web Development,DataScience,Generative AI ,ML related projects
 
-User friendly and effective ecommerce solution for Startups,Entreprenuers,Non Coders .
+User friendly and effective ecommerce solution  .
 
 Contact for full demo . 
 Try it first.
@@ -11,6 +11,7 @@ Try it first.
 - with stripe and mailchimp integration.
 - https://prototype.pythonanywhere.com/
 
+#AI Content Creator (still has work but generates SEO friendly blogs)
 - https://nomadcoder.pythonanywhere.com/
 
 
