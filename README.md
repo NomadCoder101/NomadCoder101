@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NomadCoder
 - 👀 I’m interested in python ,web development,Data Science, Machine Learning and AI based technologies .
 - 🌱  Python custom scripts ,Django web development,Generative Ai applications,Data Science, Machine Learning\
-- 💞️ I’m open to collaborate on Web Scraping,Python custom scripts ,Web Development,DataScience,Generative AI ,ML related projects
+- 💞️ I’m open to collaborate on Web Scraping,Python custom scripts ,Web Development,DataScience,Generative AI ,ML,DL related projects
 
 User friendly and effective ecommerce solution  .
 
